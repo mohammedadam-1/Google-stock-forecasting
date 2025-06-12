@@ -30,7 +30,6 @@ This project explores time series forecasting techniques for stock price predict
 
 - **Stock**: Google (GOOGL)
 - **Data Source**: Yahoo Finance
-- **Time Period**: [Add your date range]
 - **Features**: Close
 
 ## 🔧 Technologies Used
@@ -86,17 +85,8 @@ pip install pandas numpy matplotlib seaborn statsmodels jupyter sktime yfinance 
 
 ## 📈 Key Findings
 
-*[Add your specific findings here, for example:]*
-- ARIMA(p,d,q) model showed [performance metrics]
-- SARIMA captured seasonal patterns with [accuracy]
 - Model performs better for short-term forecasts (1-7 days)
 - Limitations observed in volatile market conditions
-
-## 🔍 Model Performance
-
-*[Include your model evaluation results:]*
-- **ARIMA Model**: MAE: X.XX, RMSE: X.XX, MAPE: X.XX%
-- **SARIMA Model**: MAE: X.XX, RMSE: X.XX, MAPE: X.XX%
 
 ## 📝 Lessons Learned
 
@@ -124,7 +114,7 @@ This is a learning project, but suggestions and improvements are welcome! Feel f
 
 ## 👨‍💻 Author
 
-[Your Name]
+[Mohammed Adam]
 - GitHub: [mohammedadam-1](https://github.com/mohammedadam-1)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-adam-aaa5621b5/)
 
